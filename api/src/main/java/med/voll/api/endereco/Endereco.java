@@ -17,7 +17,7 @@ public Endereco(DadosEndereco dados) {
 	this.cidade=dados.cidade();
 	this.uf=dados.uf();
 	this.numero=dados.numero();
-	this.complemento=dados.complemento();
+	//this.complemento=dados.complemento();
 }
 private String logradouro;
 private String bairro;
