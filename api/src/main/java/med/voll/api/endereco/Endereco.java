@@ -57,4 +57,9 @@ public void atualizarEndereco(Endereco dados) {
 			this.complemento=dados.complemento;
 		}
 }
+
+public void atualizarInformacoes(DadosAtualizacaoEndereco endereco) {
+	// TODO Auto-generated method stub
+	
+}
 }
